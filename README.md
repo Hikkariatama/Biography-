@@ -1,2 +1,15 @@
-# Biography: 
-https://raw.githubusercontent.com/Hikkariatama/Biography-/refs/heads/main/Biography.txt
+# My Biography:
+
+<b># Связь:
+Telegram: T.me/zxmentos, Discord: ZxMentos.</b>
+
+# <b>Любимое Животное:
+кошка)</b>
+
+# <b>Питомцы:
+котенок) (девочка)</b>
+
+# <b>Имя: 
+ни скажу)</b>
+
+# вот и биографии конец, а кто читал - молодец)!
